@@ -4,4 +4,4 @@
 
 - Copy `.env.example` to `.env`
 
-![project](https://i.ibb.co/GkzLVC8/bandicam-2020-05-28-13-10-19-837.gif)
+![project](https://i.ibb.co/7QrdsJV/2.png)
